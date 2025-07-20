@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jesus Gonzalez
 
-<!--
-**BJMAG/BJMAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una persona apasionada por la tecnología, la programación y el aprendizaje continuo. Me gusta explorar nuevas herramientas, resolver problemas y compartir lo que aprendo.
 
-Here are some ideas to get you started:
+🔧 **Stack actual:**  
+- Python 🐍  
+- Git y GitHub 🌱  
+- Linux 🐧  
+- Bash, CLI y automatización
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📘 Siempre estoy en busca de mejorar mis habilidades y contribuir a proyectos interesantes.
+
+💬 Si tienes sugerencias o quieres colaborar, ¡me encantaría saber de ti!
+
+---
+
+🌱 *Este perfil está en constante evolución. ¡Gracias por visitar!*
+
+📩 **Contacto:**  
+jemgonzalezc@udistrital.edu.co
